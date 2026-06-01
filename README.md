@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3000&pause=1000&color=0e75b6&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Ansh+Madaan+%F0%9F%91%8B;Software+Engineer;AI+%2F+ML+Engineer;Building+things+that+matter." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3000&pause=1000&color=0e75b6&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Ansh+Madaan;Software+Engineer;AI+%2F+ML+Engineer;Building+things+that+matter." alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ansh-madaan-5362b92a8/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Anshm1234)
