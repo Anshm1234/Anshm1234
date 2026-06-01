@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3000&pause=1000&color=0e75b6&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Ansh+Madaan;Software+Engineer;AI+%2F+ML+Engineer;Building+things+that+matter." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3000&pause=1000&color=0e75b6&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Ansh+Madaan+%F0%9F%91%8B;Software+Engineer;AI+%2F+ML+Engineer;Building+things+that+matter." alt="Typing SVG" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ansh-madaan-5362b92a8/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ansh-madaan)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Anshm1234)
 [![Profile Views](https://komarev.com/ghpvc/?username=Anshm1234&label=Profile+views&color=0e75b6&style=flat-square)](https://github.com/Anshm1234)
 
@@ -28,7 +28,7 @@ I build autonomous agents, ML pipelines, and full-stack systems. Currently focus
 
 ### Quick stats
 
-![Ansh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anshm1234&show_icons=true&theme=default&hide_border=true&count_private=true&rank_icon=github&hide_title=true)
+![Ansh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anshm1234&show_icons=true&theme=default&hide_border=true&count_private=true&rank_icon=github&hide_title=true&cache_seconds=1800)
 
 </td>
 </tr>
@@ -127,20 +127,21 @@ Bi-manual sign language recognition using deep learning. Real-time gesture-to-te
 
 <div align="center">
 
-<img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Anshm1234&theme=default" alt="Languages by Repo"/>
-<img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Anshm1234&theme=default" alt="Languages by Commit"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Anshm1234&theme=default" alt="Languages by Repo"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Anshm1234&theme=default" alt="Languages by Commit"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Anshm1234&theme=default&hide_border=true)](https://git.io/streak-stats)
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Anshm1234&theme=default" alt="Stats"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Anshm1234&theme=default&utcOffset=5.5" alt="Productive Time"/>
 
 </div>
 
 <div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anshm1234&layout=compact&theme=default&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Anshm1234&theme=default&hide_border=true&cache_seconds=1800)](https://git.io/streak-stats)
 
 </div>
 
