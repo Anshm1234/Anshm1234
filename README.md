@@ -28,7 +28,7 @@ I build autonomous agents, ML pipelines, and full-stack systems. Currently focus
 
 ### Quick stats
 
-![Ansh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anshm1234&show_icons=true&theme=default&hide_border=true&count_private=true&rank_icon=github&hide_title=true&cache_seconds=1800)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anshm1234&theme=default" alt="Profile Summary" width="100%"/>
 
 </td>
 </tr>
